@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## Basic Environment
 
-Paper Name: NanoCSV: Enabling Fast and Programmable CSV Processing with Hierarchical Finite-State Transducer
+Paper Name: NanoCSV: Enabling Efficient Parallel CSV Extraction with Hierarchical Finite-State Transducer
 
 DatasetsUsed:
 
